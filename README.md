@@ -52,11 +52,13 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="1268" height="590" alt="image" src="https://github.com/user-attachments/assets/6fe9fc8f-086a-4b6f-a4e6-3a40489746f8" />
 
 ## Output
+<img width="900" height="658" alt="Screenshot 2025-08-09 112543" src="https://github.com/user-attachments/assets/713f2e18-923b-485b-94ba-a622e9c2d541" />
 
 ## Result
-
+Thus the simulation of Half-wave rectifier is obtained and verified.
 
 
 
